@@ -13,7 +13,7 @@ Copyright (c) 2015 RedstoneAlmeida
 |Command|Description|Plugin|
 |----|:-------:|:---------:|
 |/kit|kit commands|KitSexy|
-|/help|Edi Help Command|HelpModifier|
+|/helper|Edi Help Command|HelpModifier|
 
 ###Others:
 |PocketMine|Author|recommended|
