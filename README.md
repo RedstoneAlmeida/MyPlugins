@@ -7,7 +7,7 @@ Copyright (c) 2015 RedstoneAlmeida
 |----|:-------:|:---------:|
 |KitSexy|1.0.0|no|
 |MoveMobs|1.3.1|no|
-|HelpModifier|2.0|no|
+|HelpModifier|1.0.3|yes|
 
 ###Commands:
 |Command|Description|Plugin|
