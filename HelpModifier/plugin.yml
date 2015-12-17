@@ -1,0 +1,19 @@
+name: MyHelper
+main: aa\CustomHelp
+version: 1.0.3
+api: 1.0.0
+author: RedstoneAlmeida
+description: Difine Custom Help Page
+website: https://github.com/RedstoneAlmeida
+
+
+commands:
+    helper:
+        description: show the help page to user
+        permission: myhelper.use
+        usage: /helper For Helper Page.
+
+permissions:
+    myhelper.use:
+        default: true
+        description: allows player to use the /helper command
