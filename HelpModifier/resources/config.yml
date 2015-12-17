@@ -1,0 +1,21 @@
+# ==============
+### No Permission Message // When player doesn't have permission.
+no-permission: You don't have permission to use this command
+##
+##
+# Use: § For Color code:
+# EXAMPLE: §d - For Light Purple
+##
+##
+
+# ===== Messages ===== #
+line1: §l§d-=-+§f[§eHelp§f]§d+-=-
+line2: + Welcome to my server!
+line3: + EDIT THIS IN CONFIG
+line4: + EDIT THIS IN CONFIG
+line5: + EDIT THIS IN CONFIG
+line6: + EDIT THIS IN CONFIG
+line7: + EDIT THIS IN CONFIG
+line8: + EDIT THIS IN CONFIG
+line9: + EDIT THIS IN CONFIG
+line10: §l§d-=-+§e[||||||]§d+-=-
